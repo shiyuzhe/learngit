@@ -2,3 +2,5 @@ hello,strange soul
 ncie to meet u
 add new text and stash,for solve a bug.
 fix bug.
+add a line.
+user1 add new file.
