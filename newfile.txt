@@ -2,3 +2,4 @@ hello,strange soul
 ncie to meet u
 add new text and stash,for solve a bug.
 fix bug.
+user 2 ,add new file.
