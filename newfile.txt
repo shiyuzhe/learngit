@@ -1,2 +1,4 @@
 hello,strange soul
 ncie to meet u
+add new text and stash,for solve a bug
+bug finished,back to work.
