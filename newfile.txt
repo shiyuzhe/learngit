@@ -1,2 +1,3 @@
 hello,strange soul
 ncie to meet u
+solve bug
