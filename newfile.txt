@@ -1,3 +1,9 @@
 hello,strange soul
 ncie to meet u
+<<<<<<< HEAD
 solve bug
+=======
+add new text and stash,for solve a bug.
+fix bug.
+
+>>>>>>> dev

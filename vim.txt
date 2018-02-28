@@ -1,0 +1,4 @@
+	vim使用：
+	vi readme.txt 进入vim编辑界面。
+	Esc : q/wq  不保存退出/保存退出  （末行模式）
+	:w <name>  保存到。
